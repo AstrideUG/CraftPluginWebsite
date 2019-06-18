@@ -1,0 +1,36 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * raleway-1:
+ *   - http://typekit.com/eulas/00000000000000003b9b13b9
+ *   - http://typekit.com/eulas/00000000000000003b9b13b3
+ *   - http://typekit.com/eulas/00000000000000003b9b13b5
+ *
+ * © 2009-2019 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-05-07 11:01:56 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=oyw1qkh&ht=tk&f=18456.18457.18458&a=3197966&app=typekit&e=css");
+
+@font-face {
+font-family:"raleway-1";
+src:url("https://use.typekit.net/af/73e1a8/00000000000000003b9b13b9/27/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/73e1a8/00000000000000003b9b13b9/27/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/73e1a8/00000000000000003b9b13b9/27/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"raleway-1";
+src:url("https://use.typekit.net/af/8e698b/00000000000000003b9b13b3/27/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/8e698b/00000000000000003b9b13b3/27/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/8e698b/00000000000000003b9b13b3/27/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"raleway-1";
+src:url("https://use.typekit.net/af/11282a/00000000000000003b9b13b5/27/l?subset_id=2&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/11282a/00000000000000003b9b13b5/27/d?subset_id=2&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/11282a/00000000000000003b9b13b5/27/a?subset_id=2&fvd=n5&v=3") format("opentype");
+font-style:normal;font-weight:500;
+}
+
+.tk-raleway { font-family: "raleway-1","raleway-2",sans-serif; }
